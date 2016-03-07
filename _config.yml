@@ -1,14 +1,28 @@
+name: Wolfsker2test
+favicon: null
 layout_spectrum: 0.1484061
 typography_spectrum: 0.4366273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3174006
-  lightness: 0.6525242
-  brandStrength: 1
   brandColors:
     - '#735D41'
     - '#000000'
     - '#E5BC7B'
     - '#FF841F'
     - '#BD9B65'
-  rhythmicContrast: 0.1385099
-name: Wolfsker2test
+  brandStrength: 1
+  lightness: 0.6525242
+  saturation: 0.3174006
+  rhythmicContrast: 0.75
+purpose: []
