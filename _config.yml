@@ -1,28 +1,40 @@
-name: Wolfsker2test
 favicon: null
-layout_spectrum: 0.1484061
-typography_spectrum: 0.4366273
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Wolfsker2test
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3174006
+  brandStrength: 1
+  rhythmicContrast: 0.75
   brandColors:
     - '#735D41'
     - '#000000'
     - '#E5BC7B'
     - '#FF841F'
     - '#BD9B65'
-  brandStrength: 1
   lightness: 0.6525242
-  saturation: 0.3174006
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.4366273
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2529538
+analytics:
+  twitter: null
+  google: null
+  facebook: null
