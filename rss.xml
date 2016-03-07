@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wolfsker2test]]></title>
         <description><![CDATA[Wolfsker2test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolfsker2test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 04:00:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 04:04:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolfsker2test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5d6a7e-8dde-4675-a09d-c6f91c7e4073.png">]]></description>
+            <link>https://thegrid.ai/wolfsker2test/8b0277a8-ef5b-4233-b785-e1fdc595b435/index.html</link>
+            <guid isPermaLink="false">8b0277a8-ef5b-4233-b785-e1fdc595b435</guid>
+            <pubDate>Mon, 07 Mar 2016 04:04:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First post for Grid from iOS]]></title>
-            <description><![CDATA[<article><h1>First post for Grid from iOS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4315621-1ede-459f-ab8b-2ed08adf6d72.png"></article>]]></description>
-            <link>undefinedfirst-post-for-grid-from-ios/index.html</link>
+            <description><![CDATA[<article><h1>First post for Grid from iOS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c06911d4d3bb0a1ec8dd4aa03ca2b2ff6cdf527a.png"></article>]]></description>
+            <link>https://thegrid.ai/wolfsker2test/first-post-for-grid-from-ios/index.html</link>
             <guid isPermaLink="false">4bf11245-3f2b-45e6-bb83-57ee75f48729</guid>
             <pubDate>Mon, 07 Mar 2016 03:58:55 GMT</pubDate>
         </item>
