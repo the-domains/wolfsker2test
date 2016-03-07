@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wolfsker2test]]></title>
+        <description><![CDATA[Wolfsker2test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 04:00:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First post for Grid from iOS]]></title>
+            <description><![CDATA[<article><h1>First post for Grid from iOS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4315621-1ede-459f-ab8b-2ed08adf6d72.png"></article>]]></description>
+            <link>undefinedfirst-post-for-grid-from-ios/index.html</link>
+            <guid isPermaLink="false">4bf11245-3f2b-45e6-bb83-57ee75f48729</guid>
+            <pubDate>Mon, 07 Mar 2016 03:58:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
